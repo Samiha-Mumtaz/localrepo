@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: skyblue;
+}
+h1{
+  margin-left: 43%;
+  margin-top: 3%;
+  color: black;
+}
+span{
+    color: red;
+}
+.BMI{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    background: black;
+    border-radius: 5px;
+    box-shadow: rgb(38, 55, 77) 0px, 20px, 30px, -10px;
+    margin-left: 20px;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+button{
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    background: black;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+    margin-left: 35%;
+}
